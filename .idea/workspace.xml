@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="bb8e3cf1-962c-4efd-b767-22ed3b9d2412" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/locallibrary/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/locallibrary/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +47,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -136,7 +138,7 @@
       <workItem from="1585735492586" duration="1540000" />
       <workItem from="1585839922159" duration="9017000" />
       <workItem from="1586070648943" duration="4963000" />
-      <workItem from="1586112369529" duration="1334000" />
+      <workItem from="1586112369529" duration="2179000" />
     </task>
     <servers />
   </component>
