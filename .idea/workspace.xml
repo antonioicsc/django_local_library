@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb8e3cf1-962c-4efd-b767-22ed3b9d2412" name="Default Changelist" comment="" />
+    <list default="true" id="bb8e3cf1-962c-4efd-b767-22ed3b9d2412" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +34,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZoYiF00mYbFGjdSkGQbNbNEAMp" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -42,7 +47,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/git-project/django-auth-adfs-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -131,6 +136,7 @@
       <workItem from="1585735492586" duration="1540000" />
       <workItem from="1585839922159" duration="9017000" />
       <workItem from="1586070648943" duration="4963000" />
+      <workItem from="1586112369529" duration="1334000" />
     </task>
     <servers />
   </component>
@@ -150,29 +156,29 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2659" y="265" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585734929850" />
-    <state width="1877" height="301" key="GridCell.Tab.0.bottom" timestamp="1585861596104">
+    <state width="1877" height="301" key="GridCell.Tab.0.bottom" timestamp="1586114475444">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="301" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585731670550" />
-    <state width="1877" height="301" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585861596104" />
+    <state width="1877" height="301" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586114475444" />
     <state width="1340" height="453" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1585596726510" />
-    <state width="1877" height="301" key="GridCell.Tab.0.center" timestamp="1585861596104">
+    <state width="1877" height="301" key="GridCell.Tab.0.center" timestamp="1586114475444">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="301" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585731670545" />
-    <state width="1877" height="301" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585861596104" />
+    <state width="1877" height="301" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586114475444" />
     <state width="1340" height="453" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1585596726510" />
-    <state width="1877" height="301" key="GridCell.Tab.0.left" timestamp="1585861596104">
+    <state width="1877" height="301" key="GridCell.Tab.0.left" timestamp="1586114475444">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="301" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585731670545" />
-    <state width="1877" height="301" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585861596104" />
+    <state width="1877" height="301" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586114475444" />
     <state width="1340" height="453" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1585596726509" />
-    <state width="1877" height="301" key="GridCell.Tab.0.right" timestamp="1585861596104">
+    <state width="1877" height="301" key="GridCell.Tab.0.right" timestamp="1586114475444">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="301" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585731670545" />
-    <state width="1877" height="301" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585861596104" />
+    <state width="1877" height="301" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586114475444" />
     <state width="1340" height="453" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1585596726510" />
     <state width="1340" height="328" key="GridCell.Tab.1.bottom" timestamp="1585675364173">
       <screen x="1920" y="0" width="1920" height="1040" />
